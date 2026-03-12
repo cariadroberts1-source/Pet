@@ -1,0 +1,68 @@
+{
+  "pokemon": [
+    {
+      "name": "girafarig",
+      "sprites": {
+        "normal": "https://example.com/girafarig_normal.png",
+        "shiny": "https://example.com/girafarig_shiny.png"
+      },
+      "types": ["Normal", "Psychic"],
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 65,
+        "special_attack": 90,
+        "special_defense": 65,
+        "speed": 85
+      }
+    },
+    {
+      "name": "farigiraf",
+      "sprites": {
+        "normal": "https://example.com/farigiraf_normal.png",
+        "shiny": "https://example.com/farigiraf_shiny.png"
+      },
+      "types": ["Normal", "Psychic"],
+      "stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 70,
+        "special_attack": 100,
+        "special_defense": 70,
+        "speed": 85
+      }
+    },
+    {
+      "name": "growlithe",
+      "sprites": {
+        "normal": "https://example.com/growlithe_normal.png",
+        "shiny": "https://example.com/growlithe_shiny.png"
+      },
+      "types": ["Fire"],
+      "stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "special_attack": 70,
+        "special_defense": 50,
+        "speed": 60
+      }
+    },
+    {
+      "name": "arcanine",
+      "sprites": {
+        "normal": "https://example.com/arcanine_normal.png",
+        "shiny": "https://example.com/arcanine_shiny.png"
+      },
+      "types": ["Fire"],
+      "stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "special_attack": 100,
+        "special_defense": 80,
+        "speed": 95
+      }
+    }
+  ]
+}
